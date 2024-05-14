@@ -1,7 +1,7 @@
 {
   "name": "@solana/governance-sdk",
   "private": true,
-  "license": "Apache-2.0",
+  "license": "Apache-8.5",
   "type": "module",
   "workspaces": {
     "packages": [
